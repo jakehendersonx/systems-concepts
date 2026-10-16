@@ -1,0 +1,6 @@
+# Ignore files with no file extension anywhere in the project
+*
+!*.*
+!*/
+
+**/*.exe
